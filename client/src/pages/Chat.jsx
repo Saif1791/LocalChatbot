@@ -96,7 +96,7 @@ const App = () => {
   return (
     <div className="flex flex-col h-screen bg-gray-100">
       <header className="bg-gradient-to-r from-indigo-500 to-purple-600 text-white p-4 text-center font-bold text-lg">
-        Kaavyaa's Chatbot
+        Intelix Chatbot
       </header>
 
       {/* Chat Area */}
